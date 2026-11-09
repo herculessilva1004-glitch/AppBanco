@@ -1,0 +1,14 @@
+C:\Users\hercu\OneDrive\Desktop\AppBanco\bin\Debug\net8.0\AppBanco.exe
+C:\Users\hercu\OneDrive\Desktop\AppBanco\bin\Debug\net8.0\AppBanco.deps.json
+C:\Users\hercu\OneDrive\Desktop\AppBanco\bin\Debug\net8.0\AppBanco.runtimeconfig.json
+C:\Users\hercu\OneDrive\Desktop\AppBanco\bin\Debug\net8.0\AppBanco.dll
+C:\Users\hercu\OneDrive\Desktop\AppBanco\bin\Debug\net8.0\AppBanco.pdb
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.AssemblyInfoInputs.cache
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.AssemblyInfo.cs
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.dll
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\refint\AppBanco.dll
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.pdb
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.genruntimeconfig.cache
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\ref\AppBanco.dll
