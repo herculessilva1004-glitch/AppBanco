@@ -12,3 +12,4 @@ C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\refint\AppBanco.dll
 C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.pdb
 C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.genruntimeconfig.cache
 C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\ref\AppBanco.dll
+C:\Users\hercu\OneDrive\Desktop\AppBanco\obj\Debug\net8.0\AppBanco.sourcelink.json
