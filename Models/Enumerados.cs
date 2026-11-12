@@ -6,6 +6,15 @@ namespace AppBanco.Models
         {
             Credito,
             Debito
+     
+        }
+
+        public enum TipoConta
+        {
+            Corrente,
+            Poupanca
+     
         }
     }
+     
 }

@@ -1,0 +1,10 @@
+
+
+
+
+
+
+namespace AppBanco.Entities
+{
+   
+}
