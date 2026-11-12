@@ -11,7 +11,7 @@ namespace AppBanco.Entities
         public string Estado {get;set;}
         public string Cidade {get; set;}
         public string Telefone {get; set;}
-        
+
         public Correntista()
         {
             CPF = "";
@@ -22,6 +22,20 @@ namespace AppBanco.Entities
             Cidade = "";
             Telefone = "";
         }
+       
+            public override string ToString()
+        {
+           string retorno = "Nome...:" + Nome + "\n" + 
+                            "CPF...:" + CPF + "\n" +
+                            "Endereco...:" + Endereco + "\n" +
+                            "Numero...:" + Numero + "\n" +       
+                            "Estado...:" + Estado + "\n" +
+                            "Cidade...:" + Cidade + "\n" +
+                            "Telefone...:" + Telefone + "\n";
+
+            return retorno;
+        }
+       
 
     }
 }

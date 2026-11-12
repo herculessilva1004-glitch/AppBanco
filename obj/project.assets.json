@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hercu\\.nuget\\packages\\": {}
+    "C:\\Users\\hercules\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hercu\\OneDrive\\Desktop\\AppBanco\\AppBanco.csproj",
+      "projectUniqueName": "C:\\Users\\hercules\\Documents\\GitHub\\AppBanco\\AppBanco.csproj",
       "projectName": "AppBanco",
-      "projectPath": "C:\\Users\\hercu\\OneDrive\\Desktop\\AppBanco\\AppBanco.csproj",
-      "packagesPath": "C:\\Users\\hercu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hercu\\OneDrive\\Desktop\\AppBanco\\obj\\",
+      "projectPath": "C:\\Users\\hercules\\Documents\\GitHub\\AppBanco\\AppBanco.csproj",
+      "packagesPath": "C:\\Users\\hercules\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hercules\\Documents\\GitHub\\AppBanco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hercu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hercules\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.427/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.428/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
