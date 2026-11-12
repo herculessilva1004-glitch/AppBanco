@@ -10,7 +10,7 @@ namespace AppBanco.Entities
         public int Numero {get; set;}
         public string Estado {get;set;}
         public string Cidade {get; set;}
-        public string Telefone {get; set}
+        public string Telefone {get; set;}
         
         public Correntista()
         {
