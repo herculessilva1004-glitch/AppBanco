@@ -7,14 +7,14 @@ namespace AppBanco.Models
     {
        static void Main(string[] args)
         {
-           Movimento Mov = new Movimento();
-           Mov.Data = DateTime.Now;
-           Mov.Tipo = Enumerados.TipoMovimento.Credito;
-           Mov.Descricao = "Depósito em dinheiro";
-           Mov.Valor = 1000.00;
+           //Movimento Mov = new Movimento();
+           //Mov.Data = DateTime.Now;
+           //Mov.Tipo = Enumerados.TipoMovimento.Credito;
+           //Mov.Descricao = "Depósito em dinheiro";
+           //Mov.Valor = 1000.00;
 
-           Console.WriteLine(Mov.ToString());
-           Console.ReadKey();
+           //Console.WriteLine(Mov.ToString());
+           //Console.ReadKey();
 
 
            //Correntista Corr = new Correntista();
@@ -28,6 +28,9 @@ namespace AppBanco.Models
 
            //Console.WriteLine(Corr.ToString());
            //Console.ReadKey();
+
+           
         }
+
     }
 }
